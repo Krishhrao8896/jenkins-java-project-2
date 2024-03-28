@@ -75,7 +75,7 @@
                 </executions>
                 <configuration>
                     <!-- Point to your SonarQube server -->
-                    <sonar.host.url>${sonar.host.url}</sonar.host.url>
+                    <sonar.host.url>http://3.144.84.99:9000</sonar.host.url>
                 </configuration>
             </plugin>
         </plugins>
